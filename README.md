@@ -1,7 +1,7 @@
 ### Hi! :grin:
 
 
-I'm Austen, a programmer :computer:, who is passionate about architecture :house_with_garden: . Some technologies I work with are Python, Html, Css, Typescript, Pytorch, Three.js, PostrgreSQL and Omniverse. My interest in machine learning lead me to start Generlate, a series of projects exploring generative ai. One day, I want to build machine-generated and managed cities!
+I'm Austen, a programmer :computer:, who is passionate about architecture :house_with_garden:. Some technologies I work with are Python, Html, Css, Typescript, Pytorch, Three.js, PostrgreSQL and Omniverse. My interest in machine learning lead me to start Generlate, a series of projects exploring generative ai. One day, I want to build machine-generated and managed cities!
 
 
 
