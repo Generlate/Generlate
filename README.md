@@ -3,7 +3,12 @@
 
 I'm a software engineer who is passionate about making technology for architecture, engineering and construction. Some technologies I work with are Python, Html, css, typescript, Pytorch, three.js, PostrgreSQL and Omnivers. My interest in machine learning lead me to start the Generlate project, generative ai for architecture, engineering and construction. One day, I want to build machine-generated and managed cities!   
 
-
+Interests
+- technology
+- architecture
+- anime
+- business
+- fitness
 
 
 
