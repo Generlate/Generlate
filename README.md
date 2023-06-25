@@ -1,10 +1,11 @@
-### Hi! :grin:
+### Hi! :grin:  
 
 
 I'm Austen, a programmer :computer:, who is passionate about architecture :house_with_garden:. Some technologies I work with are Python, Html, Css, Typescript, Pytorch, Three.js, PostrgreSQL and Omniverse. My interest in machine learning lead me to start Generlate, a series of projects exploring generative ai. One day, I want to build machine-generated and managed cities!
 
-
-
+<p align="center">
+  <img width="750" src="https://github.com/Generlate/model_generator/assets/85384584/93659fd6-ed44-44f0-b9bb-8124e0fe1966">
+</p>  
 
 <!--
 **Generlate/Generlate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
