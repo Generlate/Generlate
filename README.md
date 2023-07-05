@@ -7,8 +7,7 @@ I'm Austen, a programmer :computer:, who is passionate about architecture :house
 
 
 
-=======
->>>>>>> 7a830af26e80eef7aebf5cab567bbb8ec02f33b9
+
 <!--
 **Generlate/Generlate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
