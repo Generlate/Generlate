@@ -17,7 +17,7 @@ I'm Austen, a programmer :computer:, who is passionate about architecture :house
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="./public/github.svg">
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -35,7 +35,7 @@ I'm Austen, a programmer :computer:, who is passionate about architecture :house
 <img align="left" alt="Premiere Pro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg">
 <img align="left" alt="Davinci Resolve" width="30px" style="padding-right:10px;" src="./public/davinci-resolve-icon.png">
 <img align="left" alt="OBS Studio" width="30px" style="padding-right:10px;" src="./public/obs-studio.png">
-<img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
+<img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="./public/unrealengine.svg">
 <img align="left" alt="Midjourney" width="30px" style="padding-right:10px;" src="./public/midjourney.png">
 <img align="left" alt="Omniverse" width="30px" style="padding-right:10px;" src="./public/omniverse.jpeg">
 <img align="left" alt="FLStudio" width="30px" style="padding-right:10px;" src="./public/FL-Studio-Logo.png">
