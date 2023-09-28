@@ -23,19 +23,19 @@ I'm Austen, a programmer :computer:, who is passionate about architecture :house
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="./public/notion.png">
 <br>
-<img align="left" alt="Figma" width="30px" style="padding-right:10px; vertical-align: middle;" src="./public/fig.png">
-<img align="left" alt="Autocad" width="30px" style="padding-right:10px; vertical-align: middle;" src="./public/autocad-icon.svg">
-<img align="left" alt="Sketchup" width="30px" style="padding-right:10px; vertical-align: middle;" src="./public/sketchup.png">
-<img align="left" alt="Rhino" width="30px" style="padding-right:10px; vertical-align: middle;" src="./public/rhino.png">
-<img align="left" alt="Grasshopper" width="30px" style="padding-right:10px; vertical-align: middle;" src="./public/grasshopper.png">
-<img align="left" alt="Lumion" width="30px" style="padding-right:10px; vertical-align: middle;" src="./public/lumi.png">
-<img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px; vertical-align: middle;" src="./public/unrealengine.svg">
-<img align="left" alt="Omniverse" width="30px" style="padding-right:10px; vertical-align: middle;" src="./public/omniverse.png">
-<img align="left" alt="Photoshop" width="30px" style="padding-right:10px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-<img align="left" alt="Illustrator" width="30px" style="padding-right:10px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-<img align="left" alt="Indesign" width="30px" style="padding-right:10px; vertical-align: middle;" src="./public/indesign.png">
-<img align="left" alt="Premiere Pro" width="30px" style="padding-right:10px; vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg">
-<img align="left" alt="Davinci Resolve" width="30px" style="padding-right:10px; vertical-align: middle;" src="./public/davinci-resolve-icon.png">
-<img align="left" alt="OBS Studio" width="30px" style="padding-right:10px; vertical-align: middle;" src="./public/obs-studio.png">
-<img align="left" alt="Midjourney" width="30px" style="padding-right:10px; vertical-align: middle;" src="./public/midjourney.png">
-<img align="left" alt="FLStudio" width="30px" style="padding-right:10px; vertical-align: middle;" src="./public/FL-Studio-Logo.png">
+<img align="left" alt="Autocad" width="30px" style="padding-right:10px;" src="./public/autocad-icon.svg">
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="./public/fig.png">
+<img align="left" alt="Sketchup" width="30px" style="padding-right:10px;" src="./public/sketchup.png">
+<img align="left" alt="Rhino" width="30px" style="padding-right:10px;" src="./public/rhino.png">
+<img align="left" alt="Grasshopper" width="30px" style="padding-right:10px;" src="./public/grasshopper.png">
+<img align="left" alt="Lumion" width="30px" style="padding-right:10px;" src="./public/lumi.png">
+<img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="./public/unrealengine.svg">
+<img align="left" alt="Omniverse" width="30px" style="padding-right:10px;" src="./public/omniverse.png">
+<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+<img align="left" alt="Indesign" width="30px" style="padding-right:10px;" src="./public/indesign.png">
+<img align="left" alt="Premiere Pro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg">
+<img align="left" alt="Davinci Resolve" width="30px" style="padding-right:10px;" src="./public/davinci-resolve-icon.png">
+<img align="left" alt="OBS Studio" width="30px" style="padding-right:10px;" src="./public/obs-studio.png">
+<img align="left" alt="Midjourney" width="30px" style="padding-right:10px;" src="./public/midjourney.png">
+<img align="left" alt="FLStudio" width="30px" style="padding-right:10px;" src="./public/FL-Studio-Logo.png">
