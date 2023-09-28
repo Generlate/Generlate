@@ -44,7 +44,7 @@ I'm Austen, a programmer :computer:, who is passionate about architecture :house
 
 <br>
 
-### Recent Youtube Videos
+### <img align="left" alt="Youtube" width="30px" style="padding-right:10px;" src="./public/youtube.png"> Recent Youtube Videos
 
 <details>
  <summary><h3>📃 My Story</h3></summary>
