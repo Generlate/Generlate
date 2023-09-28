@@ -27,7 +27,7 @@ I'm Austen, a programmer :computer:, who is passionate about architecture :house
 
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="./public/fig.png">
 <img align="left" alt="Autocad" width="30px" style="padding-right:10px;" src="./public/autocad-icon.svg">
-<img align="left" alt="Sketchup" width="30px" style="padding-right:10px;" src="./public/sketchup.png">
+<img align="left" alt="Sketchup" width="30px" style="padding-right:10px;" src="./public/sketchu.png">
 <img align="left" alt="Rhino" width="30px" style="padding-right:10px;" src="./public/rhino.png">
 <img align="left" alt="Grasshopper" width="30px" style="padding-right:10px;" src="./public/grasshopper.png">
 <img align="left" alt="Lumion" width="30px" style="padding-right:10px;" src="./public/lumi.png">
