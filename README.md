@@ -1,6 +1,6 @@
 ### Hi! :grin:
 
-I'm Austen, a programmer :computer: with a passion for architecture :house_with_garden:. When I'm not programming, I'm talking about it or architecture on Youtube @"[Generlate](https://www.youtube.com/@generlate)". One day, I want to build machine-generated and managed cities!
+I'm Austen, a programmer :computer: with a passion for architecture :house_with_garden:. When I'm not programming, I'm talking about it or architecture on Youtube @[Generlate](https://www.youtube.com/@generlate). One day, I want to build machine-generated and managed cities!
 
 ---
 
