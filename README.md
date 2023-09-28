@@ -45,6 +45,17 @@ I'm Austen, a programmer :computer:, who is passionate about architecture :house
 
 ### <img align="left" alt="Youtube" width="25px" style="padding-right:10px;" src="./public/youtube.png"> Recent Youtube Videos
 
+<!-- BEGIN YOUTUBE-CARDS -->
+
+[!["Tito" Santos: Sustainability, Energy and Engineering](https://ytcards.demolab.com/?id=TBL6mrZGZr4&title=%F0%9F%9A%80+National+Coding+Week+just+got+an+upgrade%21&lang=en&timestamp=1695312031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=52 ""Tito" Santos: Sustainability, Energy and Engineering")](https://www.youtube.com/watch?v=YDJVDBUUbEY&t=3709s)
+[![Trying Nvidia Canvas](https://ytcards.demolab.com/?id=tuI2wX3ol2o&title=The+Making+of+BSD%3A+The+ACTUAL+World%27s+First+Open-Source+Operating+System%3F&lang=en&timestamp=1694617242&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=755 "Trying Nvidia Canvas")](https://www.youtube.com/watch?v=4ff7FfwGZhQ&t=58s)
+[![A (Non!) Architect recreates past renderings with Dall-e](https://ytcards.demolab.com/?id=H1pmbp4gX58&title=You+code+on+the+cloud+but+don%27t+understand+it.&lang=en&timestamp=1694534421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43 "A (Non!) Architect recreates past renderings with Dall-e")](https://www.youtube.com/watch?v=VYLTWzvRqk4&t=144s)
+[![Generlate Opening](https://ytcards.demolab.com/?id=wT07kW-aPUQ&title=If+the+code+works%2C+don%E2%80%99t+touch+it.&lang=en&timestamp=1693929644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "Generlate Opening")](https://www.youtube.com/watch?v=6hdv3w_75rk)
+[![A (NON!) Architect Tries Nvidia's Omniverse Create](https://ytcards.demolab.com/?id=tyAPu2cCOZE&title=I+Built+an+AI+That+Feeds+Me+Coffee+for+Maximum+Efficiency&lang=en&timestamp=1693404079&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=539 "A (NON!) Architect Tries Nvidia's Omniverse Create")](https://www.youtube.com/watch?v=uiMh4qat_CQ&t=40s)
+[![What Is Generlate?](https://ytcards.demolab.com/?id=Nv1Z3Aximdg&title=My+Entire+Computer+Science+Student+Setup+in+Notion&lang=en&timestamp=1692043807&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1296 "What Is Generlate?")](https://www.youtube.com/watch?v=SiNMiroOe9g&t=223s)
+
+<!-- END YOUTUBE-CARDS -->
+
 [![Subscribe](https://custom-icon-badges.demolab.com/badge/-Subscribe-0366d6?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCnhilg6-o3JPzZuqPafSYxA)
 
 <details>
