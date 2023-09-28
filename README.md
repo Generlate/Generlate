@@ -22,13 +22,13 @@ I'm Austen, a programmer :computer:, who is passionate about architecture :house
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="./public/notion.png">
-
+<br>
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 <img align="left" alt="Autocad" width="30px" style="padding-right:10px;" src="./public/autocad-icon.svg">
 <img align="left" alt="Sketchup" width="30px" style="padding-right:10px;" src="./public/sketchup.png">
 <img align="left" alt="Rhino" width="30px" style="padding-right:10px;" src="./public/rhino.png">
 <img align="left" alt="Grasshopper" width="30px" style="padding-right:10px;" src="./public/grasshopper.png">
-<img align="left" alt="Lumion" width="30px" style="padding-right:10px;" src="./public/lumion.png">
+<img align="left" alt="Lumion" width="50px" style="padding-right:10px;" src="./public/lumion.png">
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
 <img align="left" alt="Indesign" width="30px" style="padding-right:10px;" src="./public/autocad-icon.svg">
