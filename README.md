@@ -34,8 +34,8 @@ I'm Austen, a programmer :computer:, who is passionate about architecture :house
 <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="./public/unrealengine.svg">
 <img align="left" alt="Omniverse" width="30px" style="padding-right:10px;" src="./public/omniverse.png">
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="./public/photoshop.png">
-<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="./public/illustrato.png">
-<img align="left" alt="Indesign" width="30px" style="padding-right:10px;" src="./public/indesig.png">
+<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="./public/illustrator.png">
+<img align="left" alt="Indesign" width="30px" style="padding-right:10px;" src="./public/indesign.png">
 <img align="left" alt="Premiere Pro" width="30px" style="padding-right:10px;" src="./public/premierepro.png">
 <img align="left" alt="Davinci Resolve" width="30px" style="padding-right:10px;" src="./public/davinci-resolve-icon.png">
 <img align="left" alt="OBS Studio" width="30px" style="padding-right:10px;" src="./public/obs-studio.png">
