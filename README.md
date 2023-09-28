@@ -1,24 +1,10 @@
-### Hi! :grin:  
+### Hi! :grin:
 
+I'm Austen, a programmer :computer:, who is passionate about architecture :house_with_garden:. My interest in machine learning led me to start "[Generlate][youtube]", a series of projects exploring generative ai. One day, I want to build machine-generated and managed cities!
 
-I'm Austen, a programmer :computer:, who is passionate about architecture :house_with_garden:. Some technologies I work with are Html, Css, TypeScript, React, Three.js, Python, Pytorch, and Omniverse. My interest in machine learning led me to start Generlate, a series of projects exploring generative ai. One day, I want to build machine-generated and managed cities!
+---
 
+### Languages and Tools
 
-
-
-
-
-<!--
-**Generlate/Generlate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Html, Css, TypeScript, React, Three.js, Python, Pytorch, Omniverse, Azure, Architecture, Adobe, Video editing,
+<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
