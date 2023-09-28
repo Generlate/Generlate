@@ -10,7 +10,7 @@ I'm Austen, a programmer :computer:, who is passionate about architecture :house
 <img align="left" alt="Css" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<img align="left" alt="Three.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg">
+<img align="left" alt="Three.js" width="30px" style="padding-right:10px;" src="./public/threejs.png">
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
@@ -26,7 +26,7 @@ I'm Austen, a programmer :computer:, who is passionate about architecture :house
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 <img align="left" alt="Autocad" width="30px" style="padding-right:10px;" src="./public/autocad-icon.svg">
 <img align="left" alt="Sketchup" width="30px" style="padding-right:10px;" src="./public/sketchup.png">
-<img align="left" alt="Rhino" width="30px" style="padding-right:10px;" src="./public/rhinoceros.png">
+<img align="left" alt="Rhino" width="30px" style="padding-right:10px;" src="./public/rhino.png">
 <img align="left" alt="Grasshopper" width="30px" style="padding-right:10px;" src="./public/grasshopper.png">
 <img align="left" alt="Lumion" width="30px" style="padding-right:10px;" src="./public/lumion.png">
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
