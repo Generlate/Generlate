@@ -56,7 +56,7 @@ I'm Austen, a programmer :computer:, who is passionate about architecture :house
 
 <!-- END YOUTUBE-CARDS -->
 
-[![Subscribe](https://custom-icon-badges.demolab.com/badge/-Subscribe-D32F2F?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCnhilg6-o3JPzZuqPafSYxA)
+[![Subscribe](https://custom-icon-badges.demolab.com/badge/-Subscribe-FF0000?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCnhilg6-o3JPzZuqPafSYxA)
 
 <details>
  <summary><h3>📃 My Story</h3></summary>
