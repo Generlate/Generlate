@@ -42,7 +42,7 @@ I'm Austen, a programmer :computer:, who is passionate about architecture :house
 <img align="left" alt="Midjourney" width="30px" style="padding-right:10px;" src="./public/midjourney.png">
 <img align="left" alt="FLStudio" width="30px" style="padding-right:10px;" src="./public/FL-Studio-Logo.png">
 
-<br><br>
+<br />
 
 ### <img align="left" alt="Youtube" width="25px" style="padding-right:10px;" src="./public/youtube.png"> Recent Youtube Videos
 
