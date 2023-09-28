@@ -7,4 +7,4 @@ I'm Austen, a programmer :computer:, who is passionate about architecture :house
 ### Languages and Tools
 
 Html, Css, TypeScript, React, Three.js, Python, Pytorch, Omniverse, Azure, Architecture, Adobe, Video editing,
-<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
