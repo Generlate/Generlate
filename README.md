@@ -4,12 +4,10 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 
 <details>
 <summary><h3>📃 My Story</h3></summary>
-<p>Twelve-year-old Austen had aspirations of producing music. I got really into playing clarinet and saxophone for a ton of different bands. I even made it on <a href="https://open.spotify.com/track/1Yuxi8K5PKHEMXpXih96ns?si=0570155ecaaa4e60">Spotify!</a> I'm still nostalgic about those days. </p>
-<p> Yet, I decided that music was ultimately not for me, six years in. The Philadelphia philharmonic had just gone bankrupt. Plus, I was burnt out from overcommitting myself. So, I looked for a new major for college.</p> 
-<p> I found architecture, which shared a lot of enjoyable traits with music, like creativity and skill. It also had some improvements, like not requiring lifelong practice, permanence, being less competitive and related to housing. The 2008 housing crash impacted my teenage years a lot. I saw getting into the industry as a way of learning how to prevent any problems for myself. So, I decided to become an architect. </p>
-<p> My journey took an unexpected turn when I applied late to Florida International University. The architecture program was already full, but there was a spot for me in landscape architecture. So, I took it. Anyway, the classes are the same for the first half of the program. I had until junior year to reconsider my major. </p> 
-<p> So, three years passed, filled with design projects and rendering work. During this period, I was introduced to GPUs, and I noticed the rise of machine learning. In my final year, I embarked on a semester of research. Having a growing interest in technology and its role in augmenting the design process, I researched sci-fi. What I found was the transhumanist movement and a clearer vision of the future. </p>
-<p>On graduating, I made a bold decision. Rather than becoming a traditional architect, I aimed to revolutionize the field by designing the tools architects use. I planned a startup, launched a YouTube channel, and immersed myself in computer science. I eventually took a year off to study computer science and engineering through MIT, equipping myself with the skills needed for design automation and software development. </p>
+<p>Twelve-year-old Austen had aspirations of producing music. I even made it on <a href="https://open.spotify.com/track/1Yuxi8K5PKHEMXpXih96ns?si=0570155ecaaa4e60">Spotify!</a> Yet, six years in, I decided that music was ultimately not for me. So, I looked for a new college major.</p> 
+<p> I found architecture, which shared a lot of enjoyable traits with music. Architecure is creative, easier on the body and less competitive. So, I attended Florida International University for six years. That time was filled with design projects and rendering. In my final year, I embarked on a semester of research. Having a growing interest in design automation, I studied tech. That research changed my perspective. Rather than becoming a traditional arhitect, I then aimed to revolutionize the field by designing it's tools. </p>
+<p> Some people are lost after school, but I knew exactly where I was going. I planned a startup, launched a Youtube channel and immersed myself in computer science. Eventually, I took a year off to study computer science and engineering through MIT, equipping myself with the skills needed for design automation and software development.</p>
+<p></p>
 </details>
 
 ---
@@ -69,3 +67,46 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 <a href="https://www.youtube.com/@generlate?sub_confirmation=1">
     <img alt="subscribe to Youtube" title="Subscribe on YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnhilg6-o3JPzZuqPafSYxA?color=%23FF3333&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=%23FF3333"/>
 </a>
+
+<p>Twelve-year-old Austen had aspirations of producing music. I even made it on <a href="https://open.spotify.com/track/1Yuxi8K5PKHEMXpXih96ns?si=0570155ecaaa4e60">Spotify!</a> Yet, six years in, I decided that music was ultimately not for me. So, I looked for a new college major.</p> 
+<p> I found architecture, which shared a lot of enjoyable traits with music. Architecure is creative, easier on the body and less competitive. So, I attended Florida International University for six years. That time was filled with design projects and rendering. In my final year, I embarked on a semester of research. Having a growing interest in design automation, I studied tech. That research changed my perspective. Rather than becoming a traditional arhitect, I then aimed to revolutionize the field by designing it's tools. </p>
+<p> Some people are lost after school, but I knew exactly where I was going. I planned a startup, launched a Youtube channel and immersed myself in computer science. Eventually, I took a year off to study computer science and engineering through MIT, equipping myself with the skills needed for design automation and software development.</p>
+<p></p>
+
+- MIT
+  - visual scripting
+  - started on C++
+  - python
+  - IDEs
+  - Bash/zsh/Powershell
+  - gpus
+  - graphics
+  - studied through MIT
+  - theory
+  - memory
+  - compilers
+  - algorithms
+  - data structures
+  - performance
+  - object oriented programming
+  - git/github
+  - Nvidia/Autodesk
+  - built a pc
+  - Chatgpt
+- software
+  - html, css, javascript and typescript
+  - postgreSQL/Databases
+  - websites
+  - three.js
+  - 3d modeling
+  - DNS
+  - servers
+  - cloud
+  - algoexpert
+  - LLM
+  - chatbot
+  - generative ai
+  - React
+  - AI
+  - Pytorch
+  - machine learning
