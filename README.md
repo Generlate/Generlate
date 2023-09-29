@@ -4,16 +4,6 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 
 ---
 
-<details>
-<summary><h3>📃 My Story</h3></summary>
-Twelve-year-old Austen had aspirations of producing music. I got really into playing clarinet and saxophone for a ton of different bands. I even made it on <a href="https://open.spotify.com/track/1Yuxi8K5PKHEMXpXih96ns?si=0570155ecaaa4e60">Spotify!</a> I'm still nostalgic about those days.
-<br> Yet, I decided that music was ultimately not for me, six years in. The Philadelphia philharmonic had just gone bankrupt. Plus, I was burnt out from overcommitting myself. So, I looked for a new major for college.
-<br> The answer I found was architecture, which shared a lot of enjoyable traits with music, like creativity and skill. It also had some improvements, like not requiring lifelong practice, permanence, being less competitive and related to housing. The 2008 housing crash impacted my teenage years a lot, and I saw getting into the industry as a way of learning how to prevent any problems for myself. So, I decided to become an architect.
-<br> My journey took an unexpected turn when I applied late to Florida International University. The architecture program was already full, but there was a spot for me in landscape architecture. So, I took it. The classes are the same for the first half of the program anyway. So, I had until junior year to reconsider my major.
-<br> Three years passed, filled with design projects and rendering work. During this period, I was introduced to GPUs, and I noticed the rise of machine learning. In my final year, I embarked on a semester of research. Having a growing interest in technology and its role in augmenting the design process, I researched sci-fi. What I found was the transhumanist movement and a clearer vision of the future.
-<br> Upon graduating, I made a bold decision. Rather than becoming a traditional architect, I aimed to revolutionize the field by designing the tools architects use. I planned a startup, launched a YouTube channel, and immersed myself in computer science. I eventually took a year off to study computer science and engineering through MIT, equipping myself with the skills needed for design automation and software development.
-</details>
-
 ### Languages and Tools
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -69,3 +59,13 @@ Twelve-year-old Austen had aspirations of producing music. I got really into pla
 <a href="https://www.youtube.com/@generlate?sub_confirmation=1">
     <img alt="subscribe to Youtube" title="Subscribe on YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnhilg6-o3JPzZuqPafSYxA?color=%23FF3333&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=%23FF3333"/>
 </a>
+
+<details>
+<summary><h3>📃 My Story</h3></summary>
+Twelve-year-old Austen had aspirations of producing music. I got really into playing clarinet and saxophone for a ton of different bands. I even made it on <a href="https://open.spotify.com/track/1Yuxi8K5PKHEMXpXih96ns?si=0570155ecaaa4e60">Spotify!</a> I'm still nostalgic about those days.
+<br> Yet, I decided that music was ultimately not for me, six years in. The Philadelphia philharmonic had just gone bankrupt. Plus, I was burnt out from overcommitting myself. So, I looked for a new major for college.
+<br> The answer I found was architecture, which shared a lot of enjoyable traits with music, like creativity and skill. It also had some improvements, like not requiring lifelong practice, permanence, being less competitive and related to housing. The 2008 housing crash impacted my teenage years a lot, and I saw getting into the industry as a way of learning how to prevent any problems for myself. So, I decided to become an architect.
+<br> My journey took an unexpected turn when I applied late to Florida International University. The architecture program was already full, but there was a spot for me in landscape architecture. So, I took it. The classes are the same for the first half of the program anyway. So, I had until junior year to reconsider my major.
+<br> Three years passed, filled with design projects and rendering work. During this period, I was introduced to GPUs, and I noticed the rise of machine learning. In my final year, I embarked on a semester of research. Having a growing interest in technology and its role in augmenting the design process, I researched sci-fi. What I found was the transhumanist movement and a clearer vision of the future.
+<br> Upon graduating, I made a bold decision. Rather than becoming a traditional architect, I aimed to revolutionize the field by designing the tools architects use. I planned a startup, launched a YouTube channel, and immersed myself in computer science. I eventually took a year off to study computer science and engineering through MIT, equipping myself with the skills needed for design automation and software development.
+</details>
