@@ -33,6 +33,8 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="./public/notion.png">
 
+#
+
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="./public/fig.png">
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="./public/photoshop.png">
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="./public/illustrator.png">
