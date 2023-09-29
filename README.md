@@ -59,8 +59,8 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 [![Subscribe](https://custom-icon-badges.demolab.com/badge/-Subscribe-FF3333?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCnhilg6-o3JPzZuqPafSYxA)
 
 <details>
-<summary><h3>📃 My Story</h3><a href="https://open.spotify.com/track/7budRMdC6NYXGgjJYmdxli?si=18205a391e3e4a8d">Spotify</a></summary>
-Twelve-year-old Austen had aspirations of producing music. I got really into playing clarinet and saxophone for a ton of different bands. I even made it on Spotify! I'm still nostalgic about those days.
+<summary><h3>📃 My Story</h3></summary>
+Twelve-year-old Austen had aspirations of producing music. I got really into playing clarinet and saxophone for a ton of different bands. I even made it on <a href="https://open.spotify.com/track/7budRMdC6NYXGgjJYmdxli?si=18205a391e3e4a8d">Spotify!</a> I'm still nostalgic about those days.
 <br> Yet, I decided that music was ultimately not for me, six years in. The Philadelphia philharmonic had just gone bankrupt. Plus, I was burnt out from overcommitting myself. So, I looked for a new major for college.
 <br> The answer I found was architecture, which shared a lot of enjoyable traits with music, like creativity and skill. It also had some improvements, like not requiring lifelong practice, permanence, being less competitive and related to housing. The 2008 housing crash impacted my teenage years a lot, and I saw getting into the industry as a way of learning how to prevent any problems for myself. So, I went to Florida International University to become an architect.
 <br> My journey took an unexpected turn when I applied late to Florida International University. The architecture program was already full, but there was a spot for me in landscape architecture. So, I took it. The classes are the same for the first half of the program anyway. So, I had until junior year to reconsider my major.
