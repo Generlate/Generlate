@@ -59,7 +59,7 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 [![Subscribe](https://custom-icon-badges.demolab.com/badge/-Subscribe-FF3333?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCnhilg6-o3JPzZuqPafSYxA)
 
 <a href="https://www.youtube.com/c/generlate?sub_confirmation=1">
-    <img alt="subscribe to Youtube" title="Subscribe on YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnhilg6-o3JPzZuqPafSYxA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+    <img alt="subscribe to Youtube" title="Subscribe on YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnhilg6-o3JPzZuqPafSYxA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=FF3333"/>
 </a>
 
 <details>
