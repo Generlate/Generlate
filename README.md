@@ -6,8 +6,10 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 <summary><h3>📃 My Story</h3></summary>
 <p>Twelve-year-old Austen had aspirations of producing music. I even made it on <a href="https://open.spotify.com/track/1Yuxi8K5PKHEMXpXih96ns?si=0570155ecaaa4e60">Spotify!</a> Yet, six years in, I decided that music was ultimately not for me. So, I looked for a new college major.</p> 
 <p> I found architecture, which shared a lot of enjoyable traits with music. Architecure is creative, easier on the body and less competitive. So, I attended Florida International University for six years. That time was filled with design projects and rendering. In my final year, I embarked on a semester of research. Having a growing interest in design automation, I studied tech. That research changed my perspective. Rather than becoming a traditional arhitect, I then aimed to revolutionize the field by designing it's tools. </p>
-<p> Some people are lost after school, but I knew exactly where I was going. I planned a startup, launched a Youtube channel and immersed myself in computer science. Eventually, I took a year off to study computer science and engineering through MIT, equipping myself with the skills needed for design automation and software development.</p>
-<p></p>
+<p> So, I laid the foundation for a startup. Needing to know software development, I started with C++. I found coding to be similar to the visual scripting I used to do in game engines. So, I picked up the basics quickly. Because I wanted to build quicker, my second language became Python. I had to learn more than that. I also learned about IDE's, Bash, I built pcs and even attended conferences.</p>
+<p>Eventually, I took a year off to study computer science and engineering through MIT. This is where I learned about different types of memory, compilers, performance, algorithms, data structures, object oriented programming, git, github, SQL, Azure, html and css. </p>
+<p>Post MIT, I was a changed man. I was like a padawan, wielding the force. Like a padawan, I wasn't a jedi. I still had training to do. The rest of my training involved more web dev and machine learning. So, I built a few websites and some python projects.</p>
+<p>While I'm currently confident, I know I'll need to be a lifelong learner. The world is changing quickly and I can't wait to see what's invented!</p>
 </details>
 
 ---
@@ -54,57 +56,16 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 ### <img align="left" alt="Youtube" width="25px" style="padding-right:10px;" src="./public/youtube.png"> Recent Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![Stability (ai image generator) Plug-in for Photoshop](https://ytcards.demolab.com/?id=fEWRX5fE3K4&title=Stability+%28ai+image+generator%29+Plug-in+for+Photoshop&lang=en&timestamp=1679791345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stability (ai image generator) Plug-in for Photoshop")](https://www.youtube.com/watch?v=fEWRX5fE3K4)
-[!["Tito" Santos: Sustainability, Energy and Engineering](https://ytcards.demolab.com/?id=YDJVDBUUbEY&title=%22Tito%22+Santos%3A+Sustainability%2C+Energy+and+Engineering&lang=en&timestamp=1676106944&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "\"Tito\" Santos: Sustainability, Energy and Engineering")](https://www.youtube.com/watch?v=YDJVDBUUbEY)
+[!["Tito" Santos: Sustainability, Energy and Engineering](https://ytcards.demolab.com/?id=YDJVDBUUbEY&title=%22Tito%22+Santos%3A+Sustainability%2C+Energy+and+Engineering&lang=en&timestamp=1676106944&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 '"Tito" Santos: Sustainability, Energy and Engineering')](https://www.youtube.com/watch?v=YDJVDBUUbEY)
 [![Trying Nvidia Canvas](https://ytcards.demolab.com/?id=4ff7FfwGZhQ&title=Trying+Nvidia+Canvas&lang=en&timestamp=1664032101&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Trying Nvidia Canvas")](https://www.youtube.com/watch?v=4ff7FfwGZhQ)
 [![A (Non!) Architect recreates past renderings with Dall-e](https://ytcards.demolab.com/?id=VYLTWzvRqk4&title=A+%28Non%21%29+Architect+recreates+past+renderings+with+Dall-e&lang=en&timestamp=1663023040&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "A (Non!) Architect recreates past renderings with Dall-e")](https://www.youtube.com/watch?v=VYLTWzvRqk4)
 [![Generlate Opening](https://ytcards.demolab.com/?id=6hdv3w_75rk&title=Generlate+Opening&lang=en&timestamp=1662952421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Generlate Opening")](https://www.youtube.com/watch?v=6hdv3w_75rk)
 [![Welcome To The Fourth Industrial Revolution ;P](https://ytcards.demolab.com/?id=uiMh4qat_CQ&title=Welcome+To+The+Fourth+Industrial+Revolution+%3BP&lang=en&timestamp=1662951193&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Welcome To The Fourth Industrial Revolution ;P")](https://www.youtube.com/watch?v=uiMh4qat_CQ)
+
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/@generlate?sub_confirmation=1">
     <img alt="subscribe to Youtube" title="Subscribe on YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCnhilg6-o3JPzZuqPafSYxA?color=%23FF3333&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=%23FF3333"/>
 </a>
-
-<p>Twelve-year-old Austen had aspirations of producing music. I even made it on <a href="https://open.spotify.com/track/1Yuxi8K5PKHEMXpXih96ns?si=0570155ecaaa4e60">Spotify!</a> Yet, six years in, I decided that music was ultimately not for me. So, I looked for a new college major.</p> 
-<p> I found architecture, which shared a lot of enjoyable traits with music. Architecure is creative, easier on the body and less competitive. So, I attended Florida International University for six years. That time was filled with design projects and rendering. In my final year, I embarked on a semester of research. Having a growing interest in design automation, I studied tech. That research changed my perspective. Rather than becoming a traditional arhitect, I then aimed to revolutionize the field by designing it's tools. </p>
-<p> Some people are lost after school, but I knew exactly where I was going. I planned a startup, launched a Youtube channel and immersed myself in computer science. Eventually, I took a year off to study computer science and engineering through MIT, equipping myself with the skills needed for design automation and software development.</p>
-<p></p>
-
-- MIT
-  - visual scripting
-  - started on C++
-  - python
-  - IDEs
-  - Bash/zsh/Powershell
-  - gpus
-  - graphics
-  - studied through MIT
-  - theory
-  - memory
-  - compilers
-  - algorithms
-  - data structures
-  - performance
-  - object oriented programming
-  - git/github
-  - Nvidia/Autodesk
-  - built a pc
-  - Chatgpt
-- software
-  - html, css, javascript and typescript
-  - postgreSQL/Databases
-  - websites
-  - three.js
-  - 3d modeling
-  - DNS
-  - servers
-  - cloud
-  - algoexpert
-  - LLM
-  - chatbot
-  - generative ai
-  - React
-  - AI
-  - Pytorch
-  - machine learning
