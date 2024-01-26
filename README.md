@@ -23,18 +23,19 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="./public/nextjs.svg">
 <img align="left" alt="Three.js" width="30px" style="padding-right:10px; color: blue;" src="./public/threejs-original.svg">
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="./public/django.svg">
 <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="./public/nextjs.svg">
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="./public/notion.png">
 
 #
 
+<img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="./public/notion.png">
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="./public/fig.png">
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="./public/photoshop.png">
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="./public/illustrator.png">
@@ -49,19 +50,20 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 <img align="left" alt="Lumion" width="30px" style="padding-right:10px;" src="./public/lumi.png">
 <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="./public/unrealengine.svg">
 <img align="left" alt="Omniverse" width="30px" style="padding-right:10px;" src="./public/omniverse.png">
-<img align="left" alt="Midjourney" width="30px" style="padding-right:10px;" src="./public/django.svg">
 <img align="left" alt="FLStudio" width="30px" style="padding-right:10px;" src="./public/FL-Studio-Logo.png">
 <br><br>
 
 ### <img align="left" alt="Youtube" width="25px" style="padding-right:10px;" src="./public/youtube.png"> Recent Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![Stability (ai image generator) Plug-in for Photoshop](https://ytcards.demolab.com/?id=fEWRX5fE3K4&title=Stability+%28ai+image+generator%29+Plug-in+for+Photoshop&lang=en&timestamp=1679791345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stability (ai image generator) Plug-in for Photoshop")](https://www.youtube.com/watch?v=fEWRX5fE3K4)
-[!["Tito" Santos: Sustainability, Energy and Engineering](https://ytcards.demolab.com/?id=YDJVDBUUbEY&title=%22Tito%22+Santos%3A+Sustainability%2C+Energy+and+Engineering&lang=en&timestamp=1676106944&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "\"Tito\" Santos: Sustainability, Energy and Engineering")](https://www.youtube.com/watch?v=YDJVDBUUbEY)
+[!["Tito" Santos: Sustainability, Energy and Engineering](https://ytcards.demolab.com/?id=YDJVDBUUbEY&title=%22Tito%22+Santos%3A+Sustainability%2C+Energy+and+Engineering&lang=en&timestamp=1676106944&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 '"Tito" Santos: Sustainability, Energy and Engineering')](https://www.youtube.com/watch?v=YDJVDBUUbEY)
 [![Trying Nvidia Canvas](https://ytcards.demolab.com/?id=4ff7FfwGZhQ&title=Trying+Nvidia+Canvas&lang=en&timestamp=1664032101&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Trying Nvidia Canvas")](https://www.youtube.com/watch?v=4ff7FfwGZhQ)
 [![A (Non!) Architect recreates past renderings with Dall-e](https://ytcards.demolab.com/?id=VYLTWzvRqk4&title=A+%28Non%21%29+Architect+recreates+past+renderings+with+Dall-e&lang=en&timestamp=1663023040&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "A (Non!) Architect recreates past renderings with Dall-e")](https://www.youtube.com/watch?v=VYLTWzvRqk4)
 [![Generlate Opening](https://ytcards.demolab.com/?id=6hdv3w_75rk&title=Generlate+Opening&lang=en&timestamp=1662952421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Generlate Opening")](https://www.youtube.com/watch?v=6hdv3w_75rk)
 [![Welcome To The Fourth Industrial Revolution ;P](https://ytcards.demolab.com/?id=uiMh4qat_CQ&title=Welcome+To+The+Fourth+Industrial+Revolution+%3BP&lang=en&timestamp=1662951193&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Welcome To The Fourth Industrial Revolution ;P")](https://www.youtube.com/watch?v=uiMh4qat_CQ)
+
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/@generlate?sub_confirmation=1">
