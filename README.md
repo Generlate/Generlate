@@ -39,7 +39,7 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="./public/fig.png">
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="./public/photoshop.png">
 <img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="./public/illustrator.png">
-<img align="left" alt="Indesign" width="30px" style="padding-right:10px;" src="./public/indesign.png">
+<img align="left" alt="Neovim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg">
 <img align="left" alt="Premiere Pro" width="30px" style="padding-right:10px;" src="./public/premierepro.png">
 <img align="left" alt="Davinci Resolve" width="30px" style="padding-right:10px;" src="./public/davinci-resolve-icon.png">
 <img align="left" alt="OBS Studio" width="30px" style="padding-right:10px;" src="./public/obs-studio.png">
