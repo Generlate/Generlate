@@ -38,8 +38,8 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="./public/notion.png">
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="./public/fig.png">
-<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="./public/photoshop.png">
-<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="./public/illustrator.png">
+<img align="left alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Perforce Helix Core" width="30px" style="padding-right:10px;" src="./public/helix-core.svg">
 <img align="left" alt="Indesign" width="30px" style="padding-right:10px;" src="./public/indesign.png">
 <img align="left" alt="Davinci Resolve" width="30px" style="padding-right:10px;" src="./public/davinci-resolve-icon.png">
 <img align="left" alt="OBS Studio" width="30px" style="padding-right:10px;" src="./public/obs-studio.png">
@@ -50,7 +50,7 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 <img align="left" alt="Lumion" width="30px" style="padding-right:10px;" src="./public/lumi.png">
 <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="./public/unrealengine.svg">
 <img align="left" alt="Omniverse" width="30px" style="padding-right:10px;" src="./public/omniverse.png">
-<img align="left" alt="FLStudio" width="30px" style="padding-right:10px;" src="./public/FL-Studio-Logo.png">
+<img align="left" alt="Ableton Live" width="30px" style="padding-right:10px;" src="./public/ableton-live.png">
 <br><br>
 
 ### <img align="left" alt="Youtube" width="25px" style="padding-right:10px;" src="./public/youtube.png"> Recent Youtube Videos
