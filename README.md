@@ -31,7 +31,7 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 <img align="left" alt="Davinci Resolve" width="30px" style="padding-right:10px;" src="./public/davinci-resolve-icon.png">
 <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="./public/unrealengine.svg">
 <img align="left" alt="Perforce Helix Core" width="30px" style="padding-right:10px;" src="./public/helix-core.svg">
-<img align="left" alt="Ableton Live" width="30px" style="padding-right:10px;" src="./public/ableton-live.png">
+<img align="left" alt="Ableton Live" width="40px" style="padding-right:10px;" src="./public/ableton-live.png">
 <br><br>
 
 ### <img align="left" alt="Youtube" width="25px" style="padding-right:10px;" src="./public/youtube.png"> Recent Youtube Videos
