@@ -30,6 +30,7 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="left alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="left" alt="Neovim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg">
 
@@ -38,8 +39,6 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="./public/notion.png">
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="./public/fig.png">
-<img align="left alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Perforce Helix Core" width="30px" style="padding-right:10px;" src="./public/helix-core.svg">
 <img align="left" alt="Indesign" width="30px" style="padding-right:10px;" src="./public/indesign.png">
 <img align="left" alt="Davinci Resolve" width="30px" style="padding-right:10px;" src="./public/davinci-resolve-icon.png">
 <img align="left" alt="OBS Studio" width="30px" style="padding-right:10px;" src="./public/obs-studio.png">
@@ -49,6 +48,7 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 <img align="left" alt="Grasshopper" width="30px" style="padding-right:10px;" src="./public/grasshopper.png">
 <img align="left" alt="Lumion" width="30px" style="padding-right:10px;" src="./public/lumi.png">
 <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="./public/unrealengine.svg">
+<img align="left" alt="Perforce Helix Core" width="30px" style="padding-right:10px;" src="./public/helix-core.svg">
 <img align="left" alt="Omniverse" width="30px" style="padding-right:10px;" src="./public/omniverse.png">
 <img align="left" alt="Ableton Live" width="30px" style="padding-right:10px;" src="./public/ableton-live.png">
 <br><br>
@@ -56,12 +56,14 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 ### <img align="left" alt="Youtube" width="25px" style="padding-right:10px;" src="./public/youtube.png"> Recent Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![Discovering Nvidia's Software](https://ytcards.demolab.com/?id=EnI4pBqEmwU&title=Discovering+Nvidia%27s+Software&lang=en&timestamp=1718404722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Discovering Nvidia's Software")](https://www.youtube.com/watch?v=EnI4pBqEmwU)
 [![What I've been up to](https://ytcards.demolab.com/?id=UY_v_-180Ug&title=What+I%27ve+been+up+to&lang=en&timestamp=1716566844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What I've been up to")](https://www.youtube.com/watch?v=UY_v_-180Ug)
 [![My Architecture Degree In 10 Minutes](https://ytcards.demolab.com/?id=5ys65PWWZyg&title=My+Architecture+Degree+In+10+Minutes&lang=en&timestamp=1716380042&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "My Architecture Degree In 10 Minutes")](https://www.youtube.com/watch?v=5ys65PWWZyg)
 [![Stability (ai image generator) Plug-in for Photoshop](https://ytcards.demolab.com/?id=fEWRX5fE3K4&title=Stability+%28ai+image+generator%29+Plug-in+for+Photoshop&lang=en&timestamp=1679791345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stability (ai image generator) Plug-in for Photoshop")](https://www.youtube.com/watch?v=fEWRX5fE3K4)
-[!["Tito" Santos: Sustainability, Energy and Engineering](https://ytcards.demolab.com/?id=YDJVDBUUbEY&title=%22Tito%22+Santos%3A+Sustainability%2C+Energy+and+Engineering&lang=en&timestamp=1676106944&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "\"Tito\" Santos: Sustainability, Energy and Engineering")](https://www.youtube.com/watch?v=YDJVDBUUbEY)
+[!["Tito" Santos: Sustainability, Energy and Engineering](https://ytcards.demolab.com/?id=YDJVDBUUbEY&title=%22Tito%22+Santos%3A+Sustainability%2C+Energy+and+Engineering&lang=en&timestamp=1676106944&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 '"Tito" Santos: Sustainability, Energy and Engineering')](https://www.youtube.com/watch?v=YDJVDBUUbEY)
 [![Trying Nvidia Canvas](https://ytcards.demolab.com/?id=4ff7FfwGZhQ&title=Trying+Nvidia+Canvas&lang=en&timestamp=1664032101&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Trying Nvidia Canvas")](https://www.youtube.com/watch?v=4ff7FfwGZhQ)
+
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/@generlate?sub_confirmation=1">
