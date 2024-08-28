@@ -30,19 +30,21 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="./public/fig.png">
 <img align="left" alt="Davinci Resolve" width="30px" style="padding-right:10px;" src="./public/davinci-resolve-icon.png">
 <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="./public/unrealengine.svg">
-<img align="left" alt="Perforce Helix Core" width="30px" style="padding-right:10px;" src="./public/helix-core.svg">
+<img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
 <img align="left" alt="Ableton Live" width="35px" style="padding-right:10px;" src="./public/ableton-live.png">
 <br><br>
 
 ### <img align="left" alt="Youtube" width="25px" style="padding-right:10px;" src="./public/youtube.png"> Recent Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![What Tech Am I Learning This Year?](https://ytcards.demolab.com/?id=pAJHk4TDGak&title=What+Tech+Am+I+Learning+This+Year%3F&lang=en&timestamp=1721451447&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What Tech Am I Learning This Year?")](https://www.youtube.com/watch?v=pAJHk4TDGak)
 [![Version Control For Architects](https://ytcards.demolab.com/?id=yFdo1WWbodw&title=Version+Control+For+Architects&lang=en&timestamp=1719658276&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Version Control For Architects")](https://www.youtube.com/watch?v=yFdo1WWbodw)
 [![Discovering Nvidia's Software](https://ytcards.demolab.com/?id=EnI4pBqEmwU&title=Discovering+Nvidia%27s+Software&lang=en&timestamp=1718404722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Discovering Nvidia's Software")](https://www.youtube.com/watch?v=EnI4pBqEmwU)
 [![What I've been up to](https://ytcards.demolab.com/?id=UY_v_-180Ug&title=What+I%27ve+been+up+to&lang=en&timestamp=1716566844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What I've been up to")](https://www.youtube.com/watch?v=UY_v_-180Ug)
 [![My Architecture Degree In 10 Minutes](https://ytcards.demolab.com/?id=5ys65PWWZyg&title=My+Architecture+Degree+In+10+Minutes&lang=en&timestamp=1716380042&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "My Architecture Degree In 10 Minutes")](https://www.youtube.com/watch?v=5ys65PWWZyg)
 [![Stability (ai image generator) Plug-in for Photoshop](https://ytcards.demolab.com/?id=fEWRX5fE3K4&title=Stability+%28ai+image+generator%29+Plug-in+for+Photoshop&lang=en&timestamp=1679791345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stability (ai image generator) Plug-in for Photoshop")](https://www.youtube.com/watch?v=fEWRX5fE3K4)
+
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/@generlate?sub_confirmation=1">
