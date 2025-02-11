@@ -37,14 +37,12 @@ Test I'm Austen, a programmer :computer: with a passion for architecture :house_
 ### <img align="left" alt="Youtube" width="25px" style="padding-right:10px;" src="./public/youtube.png"> Recent Youtube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![2025 Resolutions](https://ytcards.demolab.com/?id=xKB_4gwtEMg&title=2025+Resolutions&lang=en&timestamp=1735831147&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "2025 Resolutions")](https://www.youtube.com/watch?v=xKB_4gwtEMg)
+[![Creating a VR Campus for YouTube—Check This Out!](https://ytcards.demolab.com/?id=sSpA2kLHPrQ&title=Creating+a+VR+Campus+for+YouTube%E2%80%94Check+This+Out%21&lang=en&timestamp=1730314776&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Creating a VR Campus for YouTube—Check This Out!")](https://www.youtube.com/watch?v=sSpA2kLHPrQ)
 [![Unreal Engine Instead Of Resolve?](https://ytcards.demolab.com/?id=gu28LeKByyo&title=Unreal+Engine+Instead+Of+Resolve%3F&lang=en&timestamp=1723841824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Unreal Engine Instead Of Resolve?")](https://www.youtube.com/watch?v=gu28LeKByyo)
 [![Generlate Live Stream](https://ytcards.demolab.com/?id=a0IN9H3P_OE&title=Generlate+Live+Stream&lang=en&timestamp=1723838039&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Generlate Live Stream")](https://www.youtube.com/watch?v=a0IN9H3P_OE)
 [![What Tech Am I Learning This Year?](https://ytcards.demolab.com/?id=pAJHk4TDGak&title=What+Tech+Am+I+Learning+This+Year%3F&lang=en&timestamp=1721451447&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What Tech Am I Learning This Year?")](https://www.youtube.com/watch?v=pAJHk4TDGak)
 [![Version Control For Architects](https://ytcards.demolab.com/?id=yFdo1WWbodw&title=Version+Control+For+Architects&lang=en&timestamp=1719658276&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Version Control For Architects")](https://www.youtube.com/watch?v=yFdo1WWbodw)
-[![Discovering Nvidia's Software](https://ytcards.demolab.com/?id=EnI4pBqEmwU&title=Discovering+Nvidia%27s+Software&lang=en&timestamp=1718404722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Discovering Nvidia's Software")](https://www.youtube.com/watch?v=EnI4pBqEmwU)
-[![What I've been up to](https://ytcards.demolab.com/?id=UY_v_-180Ug&title=What+I%27ve+been+up+to&lang=en&timestamp=1716566844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What I've been up to")](https://www.youtube.com/watch?v=UY_v_-180Ug)
-
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/@generlate?sub_confirmation=1">
