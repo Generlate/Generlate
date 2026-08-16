@@ -39,7 +39,6 @@ I'm Austen, a programmer :computer: with a passion for architecture :house_with_
 <!-- BEGIN YOUTUBE-CARDS -->
 
 [![Logo 4.0](https://ytcards.demolab.com/?id=Ja2UpNMqkRA&title=Logo+4.0&lang=en&timestamp=1759101306&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Logo 4.0")](https://www.youtube.com/shorts/Ja2UpNMqkRA)
-
 [![Virtual Campus Update](https://ytcards.demolab.com/?id=zbAIRcfxJes&title=Virtual+Campus+Update&lang=en&timestamp=1742935674&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Virtual Campus Update")](https://www.youtube.com/shorts/zbAIRcfxJes)
 [![Ranking Architecture From Genshin Impact](https://ytcards.demolab.com/?id=CrYi6HL_sZg&title=Ranking+Architecture+From+Genshin+Impact&lang=en&timestamp=1742933310&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ranking Architecture From Genshin Impact")](https://www.youtube.com/shorts/CrYi6HL_sZg)
 [![2025 Resolutions](https://ytcards.demolab.com/?id=xKB_4gwtEMg&title=2025+Resolutions&lang=en&timestamp=1735831147&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "2025 Resolutions")](https://www.youtube.com/watch?v=xKB_4gwtEMg)
